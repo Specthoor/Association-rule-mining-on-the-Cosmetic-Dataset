@@ -1,0 +1,1 @@
+# Association-rule-mining-on-the-Cosmetic-Dataset
